@@ -45,3 +45,5 @@
 ```
 
 F2 tuşuna basınca çalışır.
+
+### NOT : KULLANIRKEN LÜTFEN BOKUNU ÇIKARMA. HER 1 SAAT 50 KİŞİYE FALAN İSTEK AT TEK BİR TUŞ İLE
