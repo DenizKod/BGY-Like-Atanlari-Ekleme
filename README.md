@@ -1,4 +1,4 @@
-# Like-Atanlar--Ekleme
+# Like-Atanlari-Ekleme
 
 ### ADIM 1
 
